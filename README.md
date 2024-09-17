@@ -1,4 +1,3 @@
-This above files contain web development task 3 files of mainflow internship
 Task 3 of Web Development Mainflow Internship
 
 This project focuses on enhancing webpage interactivity and optimizing its design using JavaScript and CSS for both structure and dynamic updates. The task highlights the importance of interactive and secure web development practices.
